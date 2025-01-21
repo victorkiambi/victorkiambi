@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victorkiambi
 - 👀 I’m interested in Java, Spring Framework, Android and Kotlin
-- 🌱 I’m currently learning Wordpress, Kotlin
+- 🌱 I’m currently learning Swift, TypeScript
 - 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me kiambi15@gmail.com
 
